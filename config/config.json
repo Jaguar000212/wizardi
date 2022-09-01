@@ -1,0 +1,22 @@
+{
+    "bot":{
+        "token":"",
+        "owner":746287255521460226,
+        "mongoDB":"",
+        "announcement":1014037900582719498
+    },
+
+    "spotify":{
+        "clientID":"",
+        "clientSecret":""
+    },
+
+    "topgg":{
+        "webhookSecret":""
+    },
+
+    "lyricGenius":{
+        "clientToken":""
+    }
+
+}

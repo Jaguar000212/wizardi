@@ -1,7 +1,7 @@
 FROM openjdk:17-slim-bullseye
 
 RUN apt-get update
-RUN &&  apt-get upgrade
+RUN && apt-get upgrade
 RUN && apt install libpq-dev gcc
 RUN && apt install python3
 RUN && apt install python3-pip
